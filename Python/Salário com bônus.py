@@ -1,0 +1,5 @@
+nome=str(input())
+sal=float(input())
+ven=float(input())
+gan=sal+(ven*0.15)
+print('TOTAL = R$ {:.2f}'.format(gan))
